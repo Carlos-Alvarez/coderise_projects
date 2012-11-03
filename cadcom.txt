@@ -1,0 +1,5 @@
+CADCOM
+
+es una aplicacion y lugar para dar opiniones y comentarios
+en hora actual de temas en politica, economia, y demàs temas, 
+propuestas por cada usuario.

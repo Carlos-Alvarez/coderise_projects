@@ -1,0 +1,3 @@
+este es un proyecto que consiste en un sitio web y red social combinados en el cual habra informacion sobre gadgets nuevos, compañias tecnologicas, smartphones, entre otros.
+tendra informacion sobre las compañias tecnologicas mas importantes, sus productos, las tiendas o distribuidores en cada pais.
+las personas podran interactuar con cada producto o compañia haciendo reseñas, valoraciones, likes, entre otros.

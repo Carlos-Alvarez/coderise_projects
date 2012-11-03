@@ -1,0 +1,6 @@
+Una red social donde se pueda escuchar musica cuyo objetivo sea que las personas
+puedan estar al tanto de la musica de los generos que les gustan, y quienes 
+tengan bandas puedan subir su propia musica para darse a conocer. ademas la idea
+es que en el sitio la musica sea solo para escuchar online pero quienes quieran 
+descargar las canciones puedan hacerlo con autoizacion del artista con un precio
+que el defina (o gratis).
